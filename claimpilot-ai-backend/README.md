@@ -69,3 +69,8 @@ Milestone 1 – Project Foundation & System Design.
 - [ ] PostgreSQL integration
 - [ ] Claim management APIs
 - [ ] Automated tests
+
+
+## GitHub Push Verification
+
+Testing GitHub authentication with shubhammahajan28.
